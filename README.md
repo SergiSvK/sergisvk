@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hi, I'm SergiSvK, a passionate self-taught developer from Spain.
 
 - 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
 - 🌱 I’m currently learning Java & Typescript

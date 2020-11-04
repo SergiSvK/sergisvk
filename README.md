@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/1V5RtDf.png" />
 
 [![Twitter](https://img.shields.io/twitter/follow/SergiSvK?color=1da1f2&logo=twitter&logoColor=1da1f2&style=for-the-badge)](https://twitter.com/intent/follow?user_id=4657616266)
-[![Discord](https://img.shields.io/discord/301997437156065281?color=7289da&label=Chat&logo=discord&logoColor=7289da&style=for-the-badge)](https://discord.gg/UDhdXjW)
+[![Discord](https://img.shields.io/discord/555838994441830400?color=7289da&label=Chat&logo=discord&logoColor=7289da&style=for-the-badge)](https://discord.gg/UDhdXjW)
 
 
 

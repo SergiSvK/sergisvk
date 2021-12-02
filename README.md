@@ -11,7 +11,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🎮 I like esports and video games [#WeAreGiants](https://twitter.com/search?q=%23WeAreGiants&src=typeahead_click)
-- 🔭 I’m currently working on my project SvKraft 
+- 🔭 I’m currently working on my SvKraft project 
 - 🌱 I’m currently learning Java & Typescript
 - 👯 I collaborate in the translations of minecraft java for mojang studios 
 - 💬 Ask me about anything [here](https://github.com/SergiSvK/sergisvk/issues)

@@ -11,9 +11,8 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🎮 I like esports and video games [#WeAreGiants](https://twitter.com/search?q=%23WeAreGiants&src=typeahead_click)
-- 🔭 I’m currently working on my SvKraft project 
-- 🌱 I’m currently learning Java & Typescript
-- 👯 I collaborate in the translations of minecraft java for mojang studios 
+- 🔭 I’m currently working on my SvK BOT 
+- 🌱 Currently I have experience in Java and Python (Numpy,Pandas, Pytorch, Sklearn and YoloV5) 
 - 💬 Ask me about anything [here](https://github.com/SergiSvK/sergisvk/issues)
 
 ---
@@ -22,13 +21,13 @@
 ### Languages and Tools:
 
 [<img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />](https://www.jetbrains.com/idea/)
+[<img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />](https://www.jetbrains.com/pycharm/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://node.js.org/)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
-[<img align="left" alt="GitKraken" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/01/1.png" />](https://www.gitkraken.com/)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://eugeny.github.io/terminus/)
+[<img align="left" alt="Terminal" width="26px" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-5.png"/>](https://cloud.google.com/)
+[<img align="left" alt="Terminal" width="26px" src="https://tabby.sh/32bf32ff6c87e8d18932.svg" />](https://tabby.sh/)
 <br />
 
 ### My stats

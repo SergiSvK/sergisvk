@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4f72,100:2e86c1&height=200&section=header&text=Hi%20there%2C%20I'm%20Sergi!%20👋&fontSize=40&fontAlignY=35&fontColor=ffffff&desc=Developer%20%7C%20Gamer%20%7C%20Bot%20Builder&descAlignY=55&descAlign=50&descColor=aed6f1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:214781,50:565280,100:85c8e7&height=200&section=header&text=Hi%20there%2C%20I'm%20Sergi!%20👋&fontSize=40&fontAlignY=35&fontColor=ffffff&desc=Developer%20%7C%20Gamer%20%7C%20Bot%20Builder&descAlignY=55&descAlign=50&descColor=eae8ec" />
 
 <p align="center">
   <a href="https://twitter.com/SergiSvK"><img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://sergisvk.com/"><img src="https://img.shields.io/badge/sergisvk.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://sergisvk.com/"><img src="https://img.shields.io/badge/sergisvk.com-dea180?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://discord.gg/giantx"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
